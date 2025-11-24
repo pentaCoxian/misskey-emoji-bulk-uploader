@@ -33,24 +33,13 @@ The Misskey Emoji Bulk Uploader is a web application built with Nuxt 3 that allo
 2. Install dependencies:
    ```
    npm install
-   # or
-   yarn install
-   ```
-
-3. Build the application:
-   ```
-   npm run build
-   # or
-   yarn build
    ```
 
 ## Usage
 
 1. Start the application:
    ```
-   npm run start
-   # or
-   yarn start
+   npm run dev
    ```
 
 2. Open a web browser and navigate to `http://localhost:3000` (or the appropriate address if you've configured it differently).
